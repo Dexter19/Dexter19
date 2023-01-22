@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Dexter19
-- 🌱 I’m currently learning on front end developer.
 
 <!---
 Dexter19/Dexter19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
